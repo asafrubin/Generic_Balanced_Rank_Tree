@@ -1,2 +1,2 @@
-# Generic_Avl_Tree
-Generic Avl Tree - Part of my Technion HW
+# Generic_Balanced_Rank_Tree
+Generic Balanced Rank Tree - Part of my Technion HW
